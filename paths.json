@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/flosi/cogna-lms/language-masters/en:/",
+    "/content/flosi/cogna-lms/language-masters/en/:/en/",
+    "/content/flosi/cogna-lms/configuration:/.helix/config.json",
+    "/content/flosi/cogna-lms/metadata:/metadata.json",
+    "/content/flosi/cogna-lms/redirects:/redirects.json",
+    "/content/flosi/cogna-lms/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/flosi/cogna-lms/",
+    "/content/dam/flosi/cogna-lms/"
   ]
 }
